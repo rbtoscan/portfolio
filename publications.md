@@ -2,6 +2,11 @@
 
 The contribution to the articles below ranges from pure bioinformatics tools application to hypothesis-driven experimental design followed by execution.
 
+- **2024**  
+  **Antimicrobial Resistance in Diverse Urban Microbiomes: Uncovering Patterns and Predictive Markers**  
+  *Rodolfo Brizola Toscan, Balakrishnan Subramanian, Wojciech Lesiński,Piotr Stomma, Paweł Łabaj,Witold R. Rudnicki*  
+  [Bioarxiv](https://www.biorxiv.org/content/10.1101/2024.03.08.584116v1)
+
 - **2022**  
   **MuDoGeR: Multi-Domain Genome Recovery from metagenomes made easy**  
   *Ulisses Nunes da Rocha, Jonas Kasmanas, Rene Kallies, Saraiva JP, **Rodolfo Brizola Toscan**, Peter Stadler, CLUE-TERRA consortium*  
