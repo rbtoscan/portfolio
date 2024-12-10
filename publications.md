@@ -10,7 +10,7 @@ The contribution to the articles below ranges from pure bioinformatics tools app
 - **2022**  
   **MuDoGeR: Multi-Domain Genome Recovery from metagenomes made easy**  
   *Ulisses Nunes da Rocha, Jonas Kasmanas, Rene Kallies, Saraiva JP, **Rodolfo Brizola Toscan**, Peter Stadler, CLUE-TERRA consortium*  
-  [Microbiology Resource Announcements](https://journals.asm.org/doi/10.1128/mra.00886-21)
+  [Molecular Ecology Resources](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13904)
 
 - **2022**  
   **Draft Genome Sequences of Two Sphingobium Species Associated with Hexachlorocyclohexane (HCH) Degradation Isolated from an HCH-Contaminated Soil.**  
