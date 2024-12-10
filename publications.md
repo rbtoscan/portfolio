@@ -28,7 +28,7 @@ The contribution to the articles below ranges from pure bioinformatics tools app
   [Microbiology Resource Announcements](https://journals.asm.org/doi/10.1128/MRA.00885-21)
 
 - **2021**  
-  **PredicTF: A tool to predict bacterial transcription factors in complex microbial communities (preprint)**  
+  **PredicTF: A tool to predict bacterial transcription factors in complex microbial communities**  
   *M. O. Monteiro, L.; Saraiva, J. P.; **Toscan, R.**; Stadler, P.; Silva-Rocha, R; Nunes da Rocha, U.*  
   [Environmental Microbiome](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-021-00394-x)
 
