@@ -2,10 +2,10 @@
 
 The contribution to the articles below ranges from pure bioinformatics tools application to hypothesis-driven experimental design followed by execution.
 
-- **2024**  
+- **2025**  
   **Antimicrobial Resistance in Diverse Urban Microbiomes: Uncovering Patterns and Predictive Markers**  
   *Rodolfo Brizola Toscan, Balakrishnan Subramanian, Wojciech Lesiński,Piotr Stomma, Paweł Łabaj,Witold R. Rudnicki*  
-  [Bioarxiv](https://www.biorxiv.org/content/10.1101/2024.03.08.584116v1)
+  [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1460508/full)
 
 - **2022**  
   **MuDoGeR: Multi-Domain Genome Recovery from metagenomes made easy**  
