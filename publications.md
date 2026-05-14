@@ -3,6 +3,11 @@
 The contribution to the articles below ranges from pure bioinformatics tools application to hypothesis-driven experimental design followed by execution.
 
 - **2026**  
+    **A Global Atlas of the Pan-Urban DNA Virome Reveals Extensive Viral Diversity and Its Links to Ecology and Public Health**
+  *Jian Ouyang, Jun Wu, Zihao Gao, Xavier Rodó, Eran Elhaik, **Rodolfo Toscan**, Paweł P. Łabaj, Klas I. Udekwu, Soojin Jang, Alexander G. Lucaci, et al.*
+  [SSRN / Cell Press Sneak Peek](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4871972)￼
+    
+- **2026**  
   **CAMP: a modular metagenomics analysis system for integrated multistep data exploration**  
   *Lauren Mak, Braden Tierney, Wei Wei, Cynthia Ronkowski, **Rodolfo Brizola Toscan**, Berk Turhan, Michael Toomey, Juan Sebastian Andrade-Martínez , Chenlian Fu, Alexander G Lucaci, Arthur Henrique Barrios Solano, João Carlos Setubal, James R Henriksen, Sam Zimmerman, Malika Kopbayeva, Anna Noyvert, Zana Iwan, Shraman Kar, Nikita Nakazawa, Dmitry Meleshko, Dmytro Horyslavets, Valeriia Kantsypa, Alina Frolova, Andre Kahles, David Danko, Eran Elhaik, Pawel Labaj, Serghei Mangul, The International MetaSUB Consortium, Christopher E Mason, Iman Hajirasouliha*  
   [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/article/8/1/lqaf172/8427127)
